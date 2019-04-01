@@ -1,5 +1,3 @@
-# CS110 search Solution Makefile Hooks
-
 SRC_DIR = src
 BLD_DIR = build
 RES_DIR = res
