@@ -1,4 +1,4 @@
-# Letter-Boxed Solver
+# NY Times Letter-Boxed Solver
 
 In an effort to convince people that certain tasks are better left to our machine overlords, this is a simple program I wrote to solve the NY Times online puzzle Letter Boxed
 (more information can be found at https://www.nytimes.com/puzzles/letter-boxed)
